@@ -62,4 +62,4 @@ typings/
 _DS_Store
 
 #config files
-./js/config.js
+js/config.js
