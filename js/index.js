@@ -1,5 +1,5 @@
 var peer = new Peer({
-  key: '8d7triq4ddrnewmi'
+  key: config.peerJSKey
 });
 
 //open up a connection for user
