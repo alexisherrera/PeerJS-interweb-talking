@@ -1,0 +1,14 @@
+{
+  "name": "online-chatting-peerjs",
+  "version": "1.0.0",
+  "description": "making audio calls w/ peerJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "peerJS"
+  ],
+  "author": "alexis herrera",
+  "license": "ISC"
+}
